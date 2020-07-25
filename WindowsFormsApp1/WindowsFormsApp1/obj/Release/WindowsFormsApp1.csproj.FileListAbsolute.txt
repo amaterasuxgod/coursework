@@ -1,0 +1,66 @@
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.SceneGraph.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.WinForms.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsControlLibrary1.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Ubiety.Dns.Core.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Renci.SshNet.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.SceneGraph.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.WinForms.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsControlLibrary1.pdb
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.authorization.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Курсы.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.python.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form3.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.English.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Info.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.registration.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели2.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели3.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.SceneGraph.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.WinForms.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsControlLibrary1.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Ubiety.Dns.Core.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Renci.SshNet.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\MySql.Data.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.SceneGraph.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\SharpGL.WinForms.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsControlLibrary1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.authorization.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Курсы.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.python.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form3.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.English.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Info.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.registration.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели2.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Преподаватели3.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

@@ -1,0 +1,176 @@
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authorization.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.python.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.English.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели2.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели3.resources
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.dll
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.xml
+D:\Прототип\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.xml
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.python.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.English.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели2.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели3.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teacher.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authorization.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Method.resources
+D:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Filecs.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.xml
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.xml
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.xml
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authorization.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Filecs.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Method.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teacher.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.python.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.English.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели2.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели3.resources
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Тестирование ПО\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.xml
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.xml
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.xml
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsControlLibrary1.pdb
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authorization.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Filecs.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Method.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teacher.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.python.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.English.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели2.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели3.resources
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Renci.SshNet.dll
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.xml
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.SceneGraph.xml
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SharpGL.WinForms.xml
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.authorization.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Filecs.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Method.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Teacher.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Курсы.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.python.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.English.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Info.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.registration.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели2.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Преподаватели3.resources
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Курсовое проектирование КПЯП\Online Courses\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Datab.mdb
